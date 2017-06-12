@@ -1,9 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -484,13 +483,6 @@ h6,
 #social-buttons4-a .mbr-section-title,
 #social-buttons4-a .btn-social {
   color: #fff;
-}
-#form2-c .mbr-section-title {
-  color: #fff;
-}
-#form2-c .mbr-section-subtitle {
-  color: #efefef;
-  font-family: 'Oswald', sans-serif;
 }
 #contacts4-3 .btn {
   font-family: 'Oxygen', sans-serif;
