@@ -142,7 +142,7 @@
             "paddingBottom": "6",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fullsizeoutput-5b7-2000x1333.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-1-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -160,7 +160,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fullsizeoutput-5b4-1400x933.png",
+              "src": "@PROJECT_PATH@/assets/images/fullsizeoutput-96d-1400x933.png",
               "link": "",
               "alt": "",
               "title": "",
